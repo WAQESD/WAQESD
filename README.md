@@ -1,3 +1,4 @@
+🥇 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sini3181)](https://solved.ac/sini3181)
 
 <!--
